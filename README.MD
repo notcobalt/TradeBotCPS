@@ -26,7 +26,9 @@ Commands:
 ## Examples
 Examples are provided in the buy.js
 
-## Building
+## Building | Installation
+
+Install latest [node.js](https://nodejs.org/en)
 
 Install Packages using
 ```batch
